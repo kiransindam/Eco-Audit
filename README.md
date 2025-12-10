@@ -8,7 +8,8 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [EcoAudit Preview]
-<img width="1896" height="909" alt="EcoAudit Preview" src="https://github.com/user-attachments/assets/b8b40fcf-eff5-41cc-94e9-d25fc4e3a750" />
+<img width="1896" height="909" alt="EcoAudit Preview" src="https://github.com/user-attachments/assets/395cad05-1ff9-4311-85da-1ed12f19454d" />
+
 
 EcoAudit empowers small and medium businesses (SMEs) to reduce waste, cut costs, and improve sustainability—**without experts or complex tools**. Simply upload photos of your workspace, describe your operations in plain language, and receive an instant, personalized sustainability report powered by **Gemini 3 Pro’s native multimodal reasoning**.
 
