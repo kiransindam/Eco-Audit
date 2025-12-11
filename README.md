@@ -83,6 +83,11 @@ C --> D[Structured Sustainability Report]
 D --> E[Rendered in Glassmorphism UI]
 
 ```
+Video link: 
+
+https://github.com/user-attachments/assets/614ab83f-fb91-4a75-b141-591e73ea4e08
+
+
 ### 📌 Next Steps for Your GitHub Repo
 
 ### Clone or create the project folder
