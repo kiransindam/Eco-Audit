@@ -35,7 +35,7 @@ You don’t need to install anything—EcoAudit runs entirely in your browser.
 ### Step-by-Step
 
 1. **Open the Live App**  
-   → [https://aistudio.google.com/app/your-ecoaudit-id](#) *(replace with your link)*
+   → 👉 Try it here: https://ai.studio/apps/drive/1XCD10ZYtC_ud1FtwVfz-Cy4ERFRteJPl?fullscreenApplet=true
 
 2. **Upload 1–3 Photos**  
    Examples:
@@ -85,7 +85,11 @@ D --> E[Rendered in Glassmorphism UI]
 ```
 Video link: 
 
-https://github.com/user-attachments/assets/614ab83f-fb91-4a75-b141-591e73ea4e08
+ 
+
+https://github.com/user-attachments/assets/f6cf921d-5d95-43e4-9c0f-26e253647fd3
+
+
 
 
 ### 📌 Next Steps for Your GitHub Repo
